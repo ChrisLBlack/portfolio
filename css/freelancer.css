@@ -171,10 +171,15 @@ header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
   background: url(../img/coolBlue2.jpg);
+  max-width: 100%;
+  max-height: 100%;
+  background-repeat: round;
 }
 
 #about {
   background: url(../img/coolBlue2.jpg);
+  max-width: 100%;
+  max-height: 100%;
 }
 
 header.masthead h1 {
